@@ -43,9 +43,9 @@
  * Top down change doesn't work.
  * But there are patterns! Geeks love patterns!
  * Tips:
-   1. Tailor your message for your audiance.
+   1. Tailor your message for your audience.
    2. Lunch and learn. (Have a good agenda)
    3. Leave hints.
-   4. Find innnovators
+   4. Find innovators
    5. Ask for help, and say thank you!
    6. Mentor teams.

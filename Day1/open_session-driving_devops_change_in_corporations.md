@@ -17,5 +17,5 @@
  * "Don't try to boil the ocean." Drive incremental, gradual, small changes.
  * Convince those who are resistant to change how DevOps will benefit them, eliminate pain points.
  * Don't come in with an agenda: ask yourself "How can I make their lives easier and solve your problems?"
-   - Don't use the word "DevOps": just solve their problem. Demonostrate the process.
+   - Don't use the word "DevOps": just solve their problem. Demonstrate the process.
  * Get management on-board with DevOps culture or it won't go anywhere.

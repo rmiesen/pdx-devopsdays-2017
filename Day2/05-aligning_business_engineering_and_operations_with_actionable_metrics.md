@@ -34,6 +34,7 @@
    - Two ways of thinking
      - Mode 1: Automatic responses.
      - Mode 2: Systematic response.
+   - Can manifest itself in metrics as "biased metrics": metrics that exist to support an assumed conclusion and truth.
 
 ## Making metrics actionable
  * Action expresses priorities.

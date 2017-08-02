@@ -8,7 +8,7 @@ Author: Geshan Manandhar
  * Send an email to the deployment engineer, they deploy it
  
 ## Deployment, now:
- * All automated with ***FILL IN***
+ * All automated with various DevOps technologies, such as Chef, Docker, and Jenkins.
 
 ## Continuous Delivery
  * A software development discipline where you build software in such a way that it can be deployed on demand at any time.
@@ -16,7 +16,7 @@ Author: Geshan Manandhar
 ## Continuous Delivery vs Continuous Deployment
  * The only difference is that the deployment of the resultant is a manual step in Continuous Delivery whereas in Continuous Deployment it's an automated process.
 
-"Your work responsibilities boil down to two things, either **add value to customers*8 or **save cost** for the business"
+"Your work responsibilities boil down to two things, either **add value to customers** or **save cost** for the business"
 
 ## How we do Continuous Deployment at Namshi
 ### Tech stack

@@ -56,7 +56,8 @@ Authors:
 
 ## Benefits of the new stack
  * Custom dashboards built in looker
- * ***FILL IN***
+ * **OTHERS**
+   - Note taker: I couldn't keep up with the the presentation and lost the rest of the benefits.
 
 ## What's Next?
  * Go beyond the Proof of Concept phase.

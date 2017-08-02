@@ -7,7 +7,7 @@
  * An intermediate step: create a "DevOps" team.
    - Still a silo
    - Still prone to infighting.
- * 
+
  
 ## Methods for driving change:
  * Find champions within the org.

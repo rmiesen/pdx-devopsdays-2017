@@ -86,7 +86,7 @@
 ## Statistic
  * 50% of Women in STEM leave within 12 years.
 
-##Techniques of a Gaslighter
+## Techniques of a Gaslighter
  * Outright denial.
  * Minimizing
    - Misunderstanding

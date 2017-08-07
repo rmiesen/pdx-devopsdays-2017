@@ -37,7 +37,7 @@ Authors:
  * Test flakiness.
  * Other things.
 
-## How we use QAELK;
+## How we use QAELK:
  * Identify most expensive tests
  * Identify flaky tests
  *  See failure history of tests

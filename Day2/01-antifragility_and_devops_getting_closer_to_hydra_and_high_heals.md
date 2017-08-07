@@ -1,6 +1,8 @@
 # Antifragility and DevOps: getting closser to Hydra and High Heals
 **Author:** Jan de Vries
 
+**Presentation Slides:** <http://aslbislfoundation.org/nl/?wpfb_dl=1198>
+
 ## Worries
  * increasing Complexity.
  * Projects.
@@ -12,13 +14,12 @@
  * Book on Antifragility: "Antifragile" by Nassim Nicholas Taleb.
  * Make change less risky:
    - Make Change easy.
-   - **FINISH**
 
 ## Asymmetry is key
  * Definition:
    - Anything that has more upside than downside from random events / shocks is antifragile.
    - The opposite is fragile.
- * To discover whether a system is fragile or antifragile, you must a system with one variable's worth of imput to see if adjusting it up or down causes it to become fragile.
+ * To discover whether a system is fragile or antifragile, you must alter a system with one variable's worth of imput to see if adjusting it up or down causes it to become fragile.
    - Example of a variables:
      + Number of deployments per month.
      + Number of tasks coordinated in a project.
@@ -47,7 +48,9 @@
        * Chaos gorilla.
 
 ## Asymmetry is key: Optionality
- * An option is a contract which gives the buyer the right, but not the obligation, to buy or sell an underlying asset or innstrument at a specified strike point. **FINISH**
+ * An option is a contract which gives the buyer the right, but not the obligation, to buy or sell an underlying asset or innstrument at a specified strike point on a specified date, depending on the form of the option.
+ * Financial options are expensive.
+ * Non-financial optiosn are usually free or cheap, but we don't recognize them.
 
 ## Tinkering in IT
  * Covered in book "The Phoenix Project".
@@ -71,12 +74,12 @@
    - Result: PMs do not account for the costs of maintaining the project afterwords.
  * Suggestion: merge in a project team into a hierarchy with infrastructure.
  * 9 square model:
-   - **INSERT GRAPHIC FROM ONLINE PRESENTATION: <http://aslbislfoundation.org/nl/?wpfb_dl=1198>**
+   [9 Square Model](9_square_model.png)
  * The periodic table of DevOps tools
  * High-heel organization: the goal? **VALIDATE**
 
 
-## Advise for IT:
+## Advice for IT:
  * Watch spotify videos.
  * Read pheonix project.
  * Reduce tech debt.

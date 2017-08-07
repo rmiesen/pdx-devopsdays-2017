@@ -1,6 +1,7 @@
 # Archetype of an SRE Superhero: A DevOps Journey
 **Author:** Jason Grimes
-**Slides:** <http://goo.gl/slides/3yc3jg>
+
+**Presentation Slides:** <http://goo.gl/slides/3yc3jg>
 
 LAMA: Logging Alerting, Monitoring, Analytics
 
@@ -14,6 +15,7 @@ LAMA: Logging Alerting, Monitoring, Analytics
  * NoOps is the future
    - Full automation
    - Centralized IT depts writing code, adding value.
+   - Note taker's commentary: Really?! So a collection of code and scripts is going to _eliminate_ the need to have a dedicated team of folks who know how to deploy and maintain the software? Not likely. DevOps approaches will allow a DevOps team to scale more logrithmically as opposed to linerarly by enabiling DevOps engineers / Site Reliability Engineers (SREs) to manage fleets of VMs numbering in the thousands using a collection of IaC, CI / CD, and general Software Engineering best practices. However, this will not _eliminate_ the need for such a dedicated "Ops" oriented team: it will just make them far more agile and less manual labor-driven.
  * DevOps in a nutshell: "You build it, you run it."  --Werner Vogels, Amazon AWS CTO.
 
 ## Team Principles
@@ -28,7 +30,7 @@ LAMA: Logging Alerting, Monitoring, Analytics
 ## Principles
  * The only source of truth is the code:
    - Infrastructure as code.
-   - Configuration as code. (**WHAT? ISN'T THAT JUST IAC?**)
+   - Infrastructure/Configuration as Code.
    - Alerts are codified.
    - Every commit in VCS.
    - Automated delivery architecutre.
@@ -103,8 +105,3 @@ LAMA: Logging Alerting, Monitoring, Analytics
  * @alicegoldfuss
  * @kelseyhightower
  * <http://bit.ly/SRESuperHero>
-
-
-
-   
-**ADD YOUTUBE VIDEOS LINK TO GIT REPO**

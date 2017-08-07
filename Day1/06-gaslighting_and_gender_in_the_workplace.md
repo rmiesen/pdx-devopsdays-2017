@@ -30,9 +30,10 @@
 
 ## What is Gaslighting?
  * The denial of a person's lived experience such that they begin to doubt their own perception, judgment, and sanity.
+   - Note taker: This is also known as "brainwashing".
 
 ## Gaslighting & Power
- * Gaslighting is Easier when there's a Power Imbalance.
+ * Gaslighting is easier when there's a Power Imbalance.
    - Adult/Child
    - Boss/Worker
    - Senior/Junior
@@ -68,7 +69,7 @@
  * Female-Coded Behaviors: Emotional Caretaking & Peacekeeping.
 
 ## Emotional Effects of Gaslighting
- * Self-Doubt
+ * Self-Doubt of one's:
    - Perception
    - Intelligence
    - Worth

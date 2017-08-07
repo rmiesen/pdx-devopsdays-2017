@@ -20,7 +20,7 @@
  * Serverless (aka. functions as a service).
  * All administration is done via functions rather than a system admin box.
  * Barriers:
-   1. KISS.
+   1. KISS (Keep It Simple and Short).
    2. Know your cloud.
    3. Know the marginal cost of AWS.
    4. Bumpy cloud code smells.
@@ -29,8 +29,9 @@
    1. Cost savings.
    2. Event based triggers.
    3. Cloud ControlPlane Magic.
- * TIP: Ship Cloud + Code together.
- * TIP: Functions are _not_ magic,
+ * Tips:
+   - Ship Cloud and Code together.
+   - Functions are _not_ magic,
 
 ## Ken Mugrage - You Can't Buy DevOps, But You May Need To Sell It.
  * "We basically sell a tool that gives you DevOps."

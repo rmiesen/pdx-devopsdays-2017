@@ -12,11 +12,11 @@ These notes are organized by the conference day they were taken on and are numbe
 ## FAQ
 ### Why aren't there any notes for a given presentation / Why are there gaps in the presentation numberings?
 This could be for a number of reasons. These reason include, but are not limited to:
- 1. I didn't feel the presentation had any information worth cpaturing. This is particularly the case of the "Career Story" type of presentations.
- 2. I couldn't follow along the presentation well enough to make intelligable notes out of them.
+ 1. I didn't feel the presentation had any information worth capturing. This is particularly the case of the "Career Story" type of presentations.
+ 2. I couldn't follow along the presentation well enough to make intelligible notes out of them.
  3. I skipped out on that presentation due to the mental drain attending a multi-day conference can have on a person. This was especially the case for Day 3, where there were no notes for the last three presentations due to how tired I was and how hot it was (it was over 100&#8457; that day).
 
-### Why are there comments about Techology Y when only Technology X are Covered in the Presentation?
+### Why are there comments about Technology Y when only Technology X are Covered in the Presentation?
 Because, TIMTOWTDI (There Is More Than One Way To Do It). :smiley: That, and these are the alternative technologies I personally use and I feel it useful to mention those technologies as relevant.
 
 
@@ -25,7 +25,7 @@ Below are summaries for all the presentations, ignite sessions, and open session
 
 ### The First Day
  1. [QAELK: Are our tests any good?](./Day1/02-QAELK-are_our_test_any_good.md)
-   - 
+   - QAELK is a custom tool that leverages [Elastic](http://www.elastic.co) to aggregate and visualize test metadata. This metadata is then used to identify flaky tests, useless tests, and tests that are too costly to run all the time. The tool authors are planning to overhaul the tech stack with Google BigQuery and an in-house tool they call "Dr. Teeth"
  2. [Adopt a Painless Continuous Delivery Culture, add more Business Value](./Day1/03-adopt_a_painless_continuous_delivery_culture.md)
    - 
  3. [Ignite Sessions](./Day1/05-ignite_sessions.md)
@@ -38,7 +38,7 @@ Below are summaries for all the presentations, ignite sessions, and open session
    - 
 
 ### The Second Day
- 1. [Antifragility and DevOps: getting closser to Hydra and High Heals](./Day2/01-antifragility_and_devops_getting_closer_to_hydra_and_high_heals.md)
+ 1. [Anti-fragility and DevOps: getting closer to Hydra and High Heals](./Day2/01-antifragility_and_devops_getting_closer_to_hydra_and_high_heals.md)
    - 
  2. [Archetype of an SRE Superhero: A DevOps Journey](./Day2/02-archtype_of_an_SRE_superhero.md)
    - 
@@ -72,7 +72,7 @@ Below are summaries for all the presentations, ignite sessions, and open session
    - 
  9.  [Monitoring as Code with Icinga](./Day3/ignite_monitoring_as_code_with_icinga.md)
    - 
- 10. [Our Immutable FutureOur Immutable Future](./Day3/ignite_our_immutable_future.md)
+ 10. [Our Immutable Future](./Day3/ignite_our_immutable_future.md)
    - 
  11. [Reproducible Infrastructure with Terraform and Puppet](./Day3/ignite_reproducible_infra_with_terraform_and_puppet.md)
    - 

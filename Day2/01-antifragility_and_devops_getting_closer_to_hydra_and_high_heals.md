@@ -1,4 +1,4 @@
-# Antifragility and DevOps: getting closser to Hydra and High Heals
+# Antifragility and DevOps: getting closer to Hydra and High Heals
 **Author:** Jan de Vries
 
 **Presentation Slides:** <http://aslbislfoundation.org/nl/?wpfb_dl=1198>
